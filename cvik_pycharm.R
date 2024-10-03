@@ -39,4 +39,4 @@ RecursiveSelectionSort = function(array,first,last){
 
 RecursiveSelectionSort(x,1,length(x))
 
-#t_c = O(n^2)
+#t_c = n(n+1)/2 = O(n^2)
